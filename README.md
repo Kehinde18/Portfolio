@@ -20,7 +20,7 @@ Result :
   Gained insights on projects under and over budget costs, personnel better at estimating their costs, personnel that cost the most and projects under and over budget hours.
   
   
-  # [Consumer Banking](https://github.com/Kehinde18/Citi-Consumer-Banking-PDF)
+  # [Consumer Banking](https://github.com/Kehinde18/Citi-Consumer-Banking-PDF/blob/main/Citi's%20Consumer%20Banking%20PDF.pdf)
   
   Project Name : Citi's Mobile app Marketing Campaign
   
