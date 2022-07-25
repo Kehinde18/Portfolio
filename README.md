@@ -20,10 +20,11 @@ Result :
   Gained insights on projects under and over budget costs, personnel better at estimating their costs, personnel that cost the most and projects under and over budget hours.
   
   
-  # Consumer Banking
-  Project Name : Citi's Mobile
+  # [Consumer Banking](https://github.com/Kehinde18/Citi-Consumer-Banking-PDF)
   
-  app Marketing Campaign
+  Project Name : Citi's Mobile app Marketing Campaign
+  
+
   
   Overview : 
   Created a marketing campaign plan to pitch to the stakeholders of Citi. The campaign plan is for Citi's online mobile banking app which enables tracking of income and expenses for budget control and gives access to investments and accounts from one platform making it easy to manage wealth in one hand.
