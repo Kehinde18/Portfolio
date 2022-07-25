@@ -1,10 +1,12 @@
 # Portfolio
 These are projects I have done to showcase my skills and track my progress in data analytics.
 
-# My-Portfolio
-These are projects i have done to showcase my skills and track my progress in data analytics.
 
-# [JP Morgan Personnel Analysis](https://github.com/Kehinde18/MCPA/blob/main/JP%20Morgan%20Personnel%20Analysis%20Pdf.pdf)
+
+
+# [Global Finance and Business Management](https://github.com/Kehinde18/MCPA/blob/main/JP%20Morgan%20Personnel%20Analysis%20Pdf.pdf)
+Project Name : JP Morgan Personnel Analysis
+
 Overview :
  Analyzed the projects done by JP Morgan's personnel to determine each project's costs and hours inorder to evaluate the actual to budget analysis and communicated my observations and insights gotten from the data.
  
@@ -18,7 +20,10 @@ Result :
   Gained insights on projects under and over budget costs, personnel better at estimating their costs, personnel that cost the most and projects under and over budget hours.
   
   
-  # Citi Consumer Banking
+  # Consumer Banking
+  Project Name : Citi's Mobile
+  
+  app Marketing Campaign
   
   Overview : 
   Created a marketing campaign plan to pitch to the stakeholders of Citi. The campaign plan is for Citi's online mobile banking app which enables tracking of income and expenses for budget control and gives access to investments and accounts from one platform making it easy to manage wealth in one hand.
@@ -30,4 +35,4 @@ Result :
   Excel, PowerPoint
   
   Result : 
-  Successfully analyzed the financial cost and revenue of the campaign, categorized the target market
+  Successfully predicted the financial cost and revenue of the campaign, categorized the target market into various customer segments and analyzed the timeframe and media channels of the campaign.
