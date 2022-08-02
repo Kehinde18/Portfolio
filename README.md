@@ -19,6 +19,7 @@ Overview :
 Result :
   Gained insights on projects under and over budget costs, personnel better at estimating their costs, personnel that cost the most and projects under and over budget hours.
   
+Status : Completed
   
   # [Consumer Banking](https://github.com/Kehinde18/Citi-Consumer-Banking-PDF/blob/main/Citi's%20Consumer%20Banking%20PDF.pdf)
   
@@ -37,3 +38,5 @@ Result :
   
   Result : 
   Successfully predicted the financial cost and revenue of the campaign, categorized the target market into various customer segments and analyzed the timeframe and media channels of the campaign.
+
+Status : Completed
