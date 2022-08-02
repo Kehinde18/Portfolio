@@ -22,7 +22,9 @@ Result :
 Status : Completed
   
 
-# Data Analytics
+# [Data Analytics](https://github.com/Kehinde18/Data-Analytics/blob/main/KPMG%20Data%20Analytics%20PDF.pdf)
+
+
 
 Project Name : Sprocket's Central Consumer Purchases
 
