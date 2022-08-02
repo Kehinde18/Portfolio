@@ -21,6 +21,24 @@ Result :
   
 Status : Completed
   
+
+# Data Analytics
+
+Project Name : Sprocket's Central Consumer Purchases
+
+Overview :
+Sprocket Central, a bikes & cycling accessories company wants to grow it's customer database through a targeted marketing strategy to their high value customers. Hence an Analysis was done on their existing customer base to check for trends and patterns that would be used to know their high value customers.
+
+Skills : Research, marketing Analytics, descriptive Analysis, predictive analysis, data visualization, data mining, data modeling
+
+Technology : PowerPoint,Excel
+
+Result : 
+Analyzed Sprocket's new and existing customer database to check for patterns and trends in location, wealth segment and job industry.
+
+Status : Ongoing
+
+
   # [Consumer Banking](https://github.com/Kehinde18/Citi-Consumer-Banking-PDF/blob/main/Citi's%20Consumer%20Banking%20PDF.pdf)
   
   Project Name : Citi's Mobile app Marketing Campaign
