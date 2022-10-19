@@ -1,5 +1,5 @@
 # Portfolio
-These are personal projects I have done to showcase my skills and track my progress in data analytics.
+These are personal projects I have done to showcase my skills and track my progress in business analytics.
 
 
 
